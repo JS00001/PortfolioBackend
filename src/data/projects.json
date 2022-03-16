@@ -1,0 +1,44 @@
+[
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953638893385838633/unknown.png?width=1025&height=676",
+    "tag": "FULLSTACK",
+    "title": "Portfolio",
+    "url":"",
+    "description": "Portfolio that displays my projects and skills. NextJS, React-Query, Tailwindcss, and more."
+  },
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953639392575127643/unknown.png?width=939&height=676",
+    "tag": "BACKEND",
+    "title": "DebtTracker (GraphQL)",
+    "url": "https://github.com/JS00001/DebtTracker-GraphQL",
+    "description": "Track which of your friends owe you money. ApolloGraphQL, MongoDB, NodeJS, Express, JWT, and more."
+  },
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953639392575127643/unknown.png?width=939&height=676",
+    "tag": "FRONTEND",
+    "title": "DebtTracker (React-Native)",
+    "url": "https://github.com/JS00001/DebtTracker-Mobile",
+    "description": "Track which of your friends owe you money. ApolloGraphQL, React-Native, Redux, TailwindCSS, and more."
+  },
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953641046129115166/carbon.png?width=1164&height=676",
+    "tag": "APPLICATION",
+    "title": "Job Generator",
+    "url":"https://github.com/JS00001/JobGenerator",
+    "description": "Generate a list of modern startups that are hiring. Axios."
+  },
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953641548740980756/unknown.png?width=705&height=442",
+    "tag": "FRONTEND",
+    "title": "Fanfluence Landing",
+    "url": "https://github.com/JS00001/FanfluenceWeb",
+    "description": "Landing page for an upcoming startup. React, Redux, and more."
+  },
+  {
+    "image": "https://media.discordapp.net/attachments/845809714364809246/953642113109745724/unknown.png?width=705&height=457",
+    "tag": "FULLSTACK",
+    "title": "Discord Voice",
+    "url": "https://github.com/JS00001/DiscordVoice-Frontend",
+    "description": "A voice chat application for managing your Discord calls. React, Discord.js, Express, and more."
+  }
+]
