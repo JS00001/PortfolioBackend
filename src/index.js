@@ -45,7 +45,7 @@ app.post('/upload', (req, res) => {
 
 	return res.status(200).send({
 		code: 200,
-		message: `${url}:${port}/${fileAddress}`,
+		message: `${url}/${fileAddress}`,
 	});
 });
 
