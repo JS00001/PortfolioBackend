@@ -40,7 +40,7 @@ app.post('/upload', (req, res) => {
 		});
 
 	const file = req.files.upload;
-	const fileAddress = `static/${v4()}.${file.name.split('.').pop()}`;
+	const fileAddress = `static/${v4()}.${file.name.split('.').slice(-1)[0]}`;
 
 	file.mv(`${fileAddress}`);
 
