@@ -28,6 +28,13 @@
     "description": "Generate a list of modern startups that are hiring. Axios."
   },
   {
+    "image": "https://jsen-backend.herokuapp.com/static/85b7f8d1-1cb1-4c7a-acfe-7394c5974e49.png",
+    "tag": "FULLSTACK",
+    "title": "Image Upload",
+    "url":"https://github.com/JS00001/ImageUpload",
+    "description": "Upload images to a server and return a URL. NextJS, Express, and more."
+  },
+  {
     "image": "https://media.discordapp.net/attachments/845809714364809246/953641548740980756/unknown.png?width=705&height=442",
     "tag": "FRONTEND",
     "title": "Fanfluence Landing",
