@@ -16,7 +16,6 @@ app.use(helmet());
 app.use(
 	fileUpload({
 		createParentPath: true,
-		safeFileNames: true,
 		limits: {
 			fileSize: 8 * 1024 * 1024, // 8 MB
 		},
